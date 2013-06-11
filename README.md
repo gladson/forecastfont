@@ -1,10 +1,10 @@
-forecastfont
-============
+Forecast Font
+=============
 
 fork - http://forecastfont.iconvau.lt/
 
 License
-======
+=======
 
 SIL open font license, MIT license for code.
 
